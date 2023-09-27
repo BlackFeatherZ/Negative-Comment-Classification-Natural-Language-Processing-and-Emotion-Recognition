@@ -1,0 +1,1 @@
+The file variables.data-00000-of-00001 in USE exceeds the max size limitation of github, please find the latest version of it on https://tfhub.dev/google/universal-sentence-encoder/4
